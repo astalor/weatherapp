@@ -13,8 +13,9 @@ WeatherApp is a React Native application that displays the current temperature f
 - Display error messages if the city is not found or if there is an issue with fetching data.
 - Loading state while fetching weather data.
 - Enhanced UI with animations and transitions.
-- Integration tests are in HomeScreen.test.tsx
-- Unit tests are in WeatherContext.test.tsx
+- The app is using the Context API to manage the state
+- Integration tests are in src/screens/HomeScreen.test.tsx
+- Unit tests are in src/context/WeatherContext.test.tsx
 
 ## Prerequisites
 
