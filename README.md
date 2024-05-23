@@ -3,7 +3,7 @@
 
 WeatherApp is a React Native application that displays the current temperature for a user-selected city in Celsius, Fahrenheit, and Kelvin.
 
-[![Watch the video](https://img.youtube.com/vi/Yl42ItQ8GIo)/maxresdefault.jpg)](https://youtu.be/Yl42ItQ8GIo)
+[![Watch the video](https://img.youtube.com/vi/Yl42ItQ8GIo/maxresdefault.jpg)](https://youtu.be/Yl42ItQ8GIo)
 
 ## Features
 
