@@ -1,0 +1,2 @@
+export const OPENWEATHER_API_KEY = '';
+export const UNSPLASH_ACCESS_KEY = '';
