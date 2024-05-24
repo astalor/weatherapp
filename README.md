@@ -10,12 +10,13 @@ WeatherApp is a React Native application that displays the current temperature f
 - Search input where users can type the name of a city.
 - Display the current temperature in Celsius, Fahrenheit, and Kelvin.
 - Fetch real-time weather information using the OpenWeather API.
+- Fetch real-time image information for the specified city using the Unsplash API.
 - Display error messages if the city is not found or if there is an issue with fetching data.
 - Loading state while fetching weather data.
 - Enhanced UI with animations and transitions.
 - The app is using the Context API to manage the state
-- Integration tests are in src/screens/HomeScreen.test.tsx
-- Unit tests are in src/context/WeatherContext.test.tsx
+- API related services are in src/services
+- Integration and unit tests are in src/screens/HomeScreen.test.tsx and src/context/WeatherContext.test.tsx
 
 ## Prerequisites
 
